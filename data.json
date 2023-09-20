@@ -1,0 +1,23 @@
+{
+    "mohit": {
+        "password": "12345",
+        "transaction_h": [
+            "10000 deposited",
+            "500 withdrawn",
+            "15000 withdrawn",
+            "600 transferred"
+        ]
+    },
+    "tanishk": {
+        "password": "12345",
+        "transaction_h": [
+            "300 deposited"
+        ]
+    },
+    "sameer": {
+        "password": "56789",
+        "transaction_h": [
+            "500 withdrawn"
+        ]
+    }
+}
